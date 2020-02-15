@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	width: 99.8%;
+	height: 80px;
+	padding-top: 3%;
+	border-bottom: 1px solid;
+	box-shadow: 4px grey;
+	background-color: #ff9966;
+}
+
+article {
+	width: 95.8%;
+	border: 1px solid grey;
+	padding-top: 4%;
+	padding-left: 4%;
+	background-color: #ccccff;
+}
+
+footer {
+	width: 100%;
+	background-color: lightgrey;
+
+}
+
+button {
+	width: 20%;
+	padding: 2%;
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: blue;
+	color: white;
+	cursor: pointer;
+	font-size: 20px;
+
+}
